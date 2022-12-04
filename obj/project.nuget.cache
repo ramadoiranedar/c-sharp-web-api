@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yA675DO+O5J7guxnVuZA82wniDxMq0N+i9cSTr4I3dA0a5FfySZ+mcrsxnw5dJU6Xh0dz9DdbPoIWTebkxgPRw==",
+  "success": true,
+  "projectFilePath": "/Users/admin/develop/refactory/dotnet/c-sharp-web-api/c-sharp-web-api.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/admin/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/admin/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/admin/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/admin/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/admin/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
