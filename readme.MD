@@ -7,6 +7,7 @@ dotnet tool install -g Microsoft.dotnet-httprepl
 
 /* edit .bash_profile or .zhsrc */
 export PATH="$HOME/.dotnet/tools:$PATH"
+
 /* update bash */
 . ~/.bash_profile
 
